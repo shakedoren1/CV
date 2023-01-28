@@ -14,4 +14,4 @@ The purpose of the JavaScript code:
 3. The input validation in the contact form and the opening of a pre made email with the details recieved.
 
 The website is not perfect due to time limits, but i'm very proud of the outcome.
-Hope you like it.
+Hope you will like it.
