@@ -1,6 +1,6 @@
 Hi!
 
-I hope you enjoy browsing my website and learning more about me and my interests.
+I hope you enjoy browsing my website and learning more about me and my interests. <br>
 To run my website simply click on this [Link](https://shakedoren1.github.io/CV/).
 
 The input validation I perform in the contact form:
