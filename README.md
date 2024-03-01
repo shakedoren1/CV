@@ -1,7 +1,9 @@
 Hi!
 
 I hope you enjoy browsing my website and learning more about me and my interests. <br>
-To run my website simply click on this [Link](https://shakedoren1.github.io/CV/).
+To run my website simply click on this 
+<a href="https://shakedoren1.github.io/CV/" target="_blank">Link</a>.
+
 
 The input validation I perform in the contact form:
 1. The name is typed with a length of 1 or more characters.
