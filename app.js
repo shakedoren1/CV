@@ -59,7 +59,7 @@ function emailIsValid(email){
     return pattern.test(email);
 }
 
-// opening an email window with the ditails entered
+// opening an email window with the details entered
 function sendEmail(){
     const body = "From: " + nameInput.value + 
     " \nEmail: " + email.value + 

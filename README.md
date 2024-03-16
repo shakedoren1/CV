@@ -16,5 +16,5 @@ The purpose of the JavaScript code:
 2. The dark/light mode.
 3. The input validation in the contact form and the opening of a pre-made email with the details received.
 
-Hope you liked it,
+Hope you liked it, <br>
 Shaked
